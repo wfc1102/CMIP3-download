@@ -3,7 +3,7 @@ automatically download CMIP3 wget scrips
 
 CMIP3 differs from CMIP5 & 6 but more simpler to download wget scripts.
 
-User specify 7 paremeters: variable, model, experiment, realm, institute, time_frequency,ensemble. for example:
+User specify 7 parameters: variable, model, experiment, realm, institute, time_frequency,ensemble. for example:
 
 experiments=(historical)
 
